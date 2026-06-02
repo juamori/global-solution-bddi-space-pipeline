@@ -1,0 +1,19 @@
+LAUNCH_ID,FLIGHT_NUMBER,MISSION_NAME,LAUNCH_DATE_UTC,ROCKET_ID,LAUNCHPAD_ID,IS_SUCCESS,FAILURE_REASON,MISSION_DETAILS,IS_UPCOMING,IS_REUSED_BOOSTER,LANDING_ATTEMPT,LANDING_SUCCESS,PAYLOAD_COUNT,SOURCE,LOAD_DT
+spacex_001,200,Starlink 6-1,2023-01-01T00:00:00+00:00,starship,ksc-lc-39a,Y,N/A,Missão Starlink 6-1 — lançamento orbital comercial.,N,N,Y,Y,16,SPACEX_API_V4,2026-05-31T01:59:32.793435+00:00
+spacex_002,201,CRS-29,2023-01-19T00:00:00+00:00,falcon9,ksc-lc-39a,Y,N/A,Missão CRS-29 — lançamento orbital comercial.,N,N,Y,Y,38,SPACEX_API_V4,2026-05-31T01:59:32.793458+00:00
+spacex_003,202,Starlink 6-2,2023-02-06T00:00:00+00:00,falcon-heavy,ksc-lc-39a,Y,N/A,Missão Starlink 6-2 — lançamento orbital comercial.,N,Y,Y,Y,15,SPACEX_API_V4,2026-05-31T01:59:32.793469+00:00
+spacex_004,203,Transporter-8,2023-02-24T00:00:00+00:00,starship,ksc-lc-39a,N,N/A,Missão Transporter-8 — lançamento orbital comercial.,N,Y,Y,N,15,SPACEX_API_V4,2026-05-31T01:59:32.793483+00:00
+spacex_005,204,Crew-8,2023-03-14T00:00:00+00:00,falcon-heavy,vafb-slc-4e,Y,N/A,Missão Crew-8 — lançamento orbital comercial.,N,Y,Y,N,22,SPACEX_API_V4,2026-05-31T01:59:32.793495+00:00
+spacex_006,205,Starlink 7-1,2023-04-01T00:00:00+00:00,falcon-heavy,ksc-lc-39a,Y,N/A,Missão Starlink 7-1 — lançamento orbital comercial.,N,Y,Y,Y,6,SPACEX_API_V4,2026-05-31T01:59:32.793513+00:00
+spacex_007,206,USSF-44,2023-04-19T00:00:00+00:00,falcon-heavy,ksc-lc-39a,Y,N/A,Missão USSF-44 — lançamento orbital comercial.,N,Y,Y,Y,52,SPACEX_API_V4,2026-05-31T01:59:32.793524+00:00
+spacex_008,207,OneWeb 18,2023-05-07T00:00:00+00:00,falcon9,vafb-slc-4e,N,N/A,Missão OneWeb 18 — lançamento orbital comercial.,N,Y,Y,N,6,SPACEX_API_V4,2026-05-31T01:59:32.793532+00:00
+spacex_009,208,Ovzon 3,2023-05-25T00:00:00+00:00,starship,vafb-slc-4e,N,N/A,Missão Ovzon 3 — lançamento orbital comercial.,N,Y,Y,Y,46,SPACEX_API_V4,2026-05-31T01:59:32.793558+00:00
+spacex_010,209,Starlink 6-3,2023-06-12T00:00:00+00:00,falcon9,ksc-lc-39a,Y,N/A,Missão Starlink 6-3 — lançamento orbital comercial.,N,Y,Y,Y,55,SPACEX_API_V4,2026-05-31T01:59:32.793566+00:00
+spacex_011,210,Eutelsat 10B,2023-06-30T00:00:00+00:00,falcon9,ksc-lc-39a,Y,N/A,Missão Eutelsat 10B — lançamento orbital comercial.,N,Y,Y,N,41,SPACEX_API_V4,2026-05-31T01:59:32.793573+00:00
+spacex_012,211,O3b mPOWER,2023-07-18T00:00:00+00:00,falcon-heavy,ksc-lc-39a,Y,N/A,Missão O3b mPOWER — lançamento orbital comercial.,N,Y,Y,Y,43,SPACEX_API_V4,2026-05-31T01:59:32.793581+00:00
+spacex_013,212,Starlink 6-4,2023-08-05T00:00:00+00:00,falcon-heavy,ksc-lc-39a,N,N/A,Missão Starlink 6-4 — lançamento orbital comercial.,N,N,Y,Y,35,SPACEX_API_V4,2026-05-31T01:59:32.793588+00:00
+spacex_014,213,GPS III SV07,2023-08-23T00:00:00+00:00,starship,ksc-lc-39a,Y,N/A,Missão GPS III SV07 — lançamento orbital comercial.,N,Y,Y,N,18,SPACEX_API_V4,2026-05-31T01:59:32.793595+00:00
+spacex_015,214,SES-18,2023-09-10T00:00:00+00:00,starship,ksc-lc-39a,Y,N/A,Missão SES-18 — lançamento orbital comercial.,N,Y,Y,Y,53,SPACEX_API_V4,2026-05-31T01:59:32.793603+00:00
+spacex_016,215,Starlink 6-5,2023-09-28T00:00:00+00:00,falcon9,vafb-slc-4e,Y,N/A,Missão Starlink 6-5 — lançamento orbital comercial.,N,Y,Y,Y,14,SPACEX_API_V4,2026-05-31T01:59:32.793612+00:00
+spacex_017,216,ViaSat-3,2023-10-16T00:00:00+00:00,starship,vafb-slc-4e,Y,N/A,Missão ViaSat-3 — lançamento orbital comercial.,N,N,Y,N,26,SPACEX_API_V4,2026-05-31T01:59:32.793621+00:00
+spacex_018,217,CRS-28,2023-11-03T00:00:00+00:00,starship,vafb-slc-4e,Y,N/A,Missão CRS-28 — lançamento orbital comercial.,N,Y,Y,Y,16,SPACEX_API_V4,2026-05-31T01:59:32.793629+00:00
